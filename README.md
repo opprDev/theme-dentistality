@@ -81,7 +81,7 @@ Dental Clinic Purpose One Page Theme
 
 ![alt tag](assets/screenshot.png "Slider Preview")
 
-Vitality is a clean, professional, responsive Bootstrap template. With one unique page sample to get you started about dental clinic theme, this theme is perfect for a wide range of business types.
+Dentistality is a clean, professional, responsive Bootstrap template. With one unique page sample to get you started about dental clinic theme, this theme is perfect for a wide range of business types.
 
 The Template includes a dedicated folder for the Image Source and for the Assets.
 
