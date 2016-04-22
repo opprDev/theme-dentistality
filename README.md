@@ -104,6 +104,10 @@ Please visit our [Test Page](http://theme-dentistality.calli.tech/) and see the 
   </a>
 </span>
 
+##### Documentation
+
+Please visit our [Documentation Page](http://theme-dentistality.calli.tech/doc/documentation.html) if you need any help.
+
 ##### Date
 
 23/04/2016
