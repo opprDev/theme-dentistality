@@ -1,7 +1,5 @@
 # Theme Dentistality
 
-Dental Clinic Purpose One Page Theme
-
 <!-- BADGES/ -->
 
 <span class="badge-travisci">
@@ -80,6 +78,10 @@ Dental Clinic Purpose One Page Theme
 <!-- /BADGES -->
 
 ![alt tag](assets/screenshot.png "Slider Preview")
+
+## Details
+
+### Dental Clinic Purpose One Page Theme
 
 Dentistality is a clean, professional, responsive Bootstrap template. With one unique page sample to get you started about dental clinic theme, this theme is perfect for a wide range of business types.
 
