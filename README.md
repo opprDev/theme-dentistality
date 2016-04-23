@@ -116,6 +116,10 @@ Please visit our [Documentation Page](http://theme-dentistality.calli.tech/docs/
 
 Francisco Maria Calisto ([FMCalisto](https://github.com/FMCalisto))
 
+##### Keywords
+
+dentist, clinical, medic, template, business, card, office, clinic, hospital, dr., doctor, surgery, cosmetic, family, services
+
 
 #### License
 
