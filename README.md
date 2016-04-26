@@ -105,6 +105,11 @@ Please visit our [Test Page](http://theme-dentistality.calli.tech/) and see the 
   </a>
 </span>
 
+
+##### Buy
+
+[Templamatic](http://www.templamatic.com/templates/4347)
+
 ##### Documentation
 
 Please visit our [Documentation Page](http://theme-dentistality.calli.tech/docs/documentation.html) if you need any help.
