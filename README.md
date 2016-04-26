@@ -95,6 +95,10 @@ The Template includes a dedicated folder for the Image Source and for the Assets
 
 ### Project Information
 
+##### Buy
+
+[Templamatic](http://www.templamatic.com/templates/4347)
+
 ##### Test Page
 
 Please visit our [Test Page](http://theme-dentistality.calli.tech/) and see the project working:
@@ -104,11 +108,6 @@ Please visit our [Test Page](http://theme-dentistality.calli.tech/) and see the 
     <img src="assets/add_link.png" alt="link" width="5%" height="5%" />
   </a>
 </span>
-
-
-##### Buy
-
-[Templamatic](http://www.templamatic.com/templates/4347)
 
 ##### Documentation
 
