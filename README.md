@@ -71,7 +71,7 @@
 </span>
 <span class="image">
   <a href="https://www.mojomarketplace.com/?r=CalliTechStore" title="Mojo">
-    <img src="assets/banner_728x90.png" alt="mojo" width="25%" height="25%" />
+    <img src="assets/banner_728x90.png" alt="mojo" width="100%" height="100%" />
   </a>
 </span>
 
