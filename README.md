@@ -59,6 +59,21 @@
     <img src="assets/CreativeMarket-Logo.png" alt="envato market" width="7.5%" height="7.5%" />
   </a>
 </span>
+<span class="image">
+  <a href="https://www.codester.com?ref=CalliTechStore" title="Codester">
+    <img src="assets/logo-v2-blue.png" alt="codester" width="15%" height="15%" />
+  </a>
+</span>
+<span class="image">
+  <a href="http://www.codegrape.com/?ref=CalliTechStore" title="CodeGrape">
+    <img src="assets/logo1-codegrape.png" alt="codegrape" width="5%" height="5%" />
+  </a>
+</span>
+<span class="image">
+  <a href="https://www.mojomarketplace.com/?r=CalliTechStore" title="Mojo">
+    <img src="assets/banner_728x90.png" alt="mojo" width="100%" height="100%" />
+  </a>
+</span>
 
 
 <!-- /BADGES -->
